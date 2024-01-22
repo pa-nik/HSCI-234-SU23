@@ -6,4 +6,9 @@ The links below can be viewed running onlne via the GitHub Pages link to this re
 [https://pa-nik.github.io/HSCI-234-SU23/](https://pa-nik.github.io/HSCI-234-SU23/)
 
 ### Week 1
-**[hello-pyscript](./week1/hello-pyscript)** - the first program  
+**[hello-pyscript](./week1/hello-pyscript)**  
+the first program  
+  
+### Week 2
+**[2.1-drawing-shapes](./week2/21-drawing-shapes/)**  
+drawing lines, triangles, ellipses, rectangles, etc.
